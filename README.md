@@ -1,5 +1,6 @@
 # ExzProgram
-Еxzyte Program, One of the most ranndom stuff i made lmao :/
+Еxzyte Program, One of the most random stuff i made lmao :/
+It's cool ig :D
 
 # Coming Soon Features
 - Possibly Tunning
@@ -8,3 +9,9 @@
 
 # Info
 Well, kinda just a random program without any specific use. If you want me to help with this, then contact me :D ! Also, its made in C#
+
+New Updates always coming out!
+
+# Changelog
+- Jan 23 2023 - Uploaded To Github and Added A Download
+- Dec 22 2022 - Massive Update, added EULA page, Registry Keys and Values.
